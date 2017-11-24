@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Android Task</string>
+
+    <string name="popular">All Venues</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="loading">Loading&#8230;</string>
+    <string name="no_more">No more venues to load.</string>
+
+    <string name="error">Error</string>
+    <string name="network_error_venue_list">Please check if device is connected to the internet. Scroll down to refresh.</string>
+    <string name="network_error">Please check if device is connected to the internet.</string>
+    <string name="network_error_short">No internet</string>
+    <string name="server_error">Oops! Something is wrong at our end. Please try again later.</string>
+    <string name="server_error_short">Server error</string>
+    <string name="empty_error_short">No data found</string>
+
+    <string name="storeId">Venue Address </string>
+    <string name="see_more">SEE MORE</string>
+
+    <string name="location">Location</string>
+
+    <string name="similar">Gallery</string>
+    <string name="social">Social</string>
+
+    <string name="no_favorites">No venues have been added to favorites.</string>
+    <string name="cursor_error">Error loading favorites. Please try again later.</string>
+
+    <string name="op_failed">Operation failed, You cann\'t have more than one favourite</string>
+    <string name="venue_added">Successfully added Venue to favorites</string>
+    <string name="venue_removed">Successfully removed Venue from favorites</string>
+
+    <string name="no_venue_selected">No Venue selected</string>
+
+
+    <string name="share_venue">Share Venue</string>
+    <string name="share_via">Share via</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="toast">Yet to be Implemented</string>
+    <string name="website">Website</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_text">Need GPS permission for getting your location and sorting the distance based on your location</string>
+</resources>
